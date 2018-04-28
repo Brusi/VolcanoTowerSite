@@ -1,0 +1,40 @@
+body {
+  	background: #000000 url("bg.jpg") repeat-y center top;
+	align: center;
+}
+
+.content {
+	background-image: url("bg.jpg");
+	width: 800px;
+	position: absolute;
+}
+
+div#badges {
+	margin-top: 270px;
+}
+
+#badges img {
+	margin: 14px
+}
+
+div#video {
+	align: left;
+	margin-top: 90px;
+}
+
+#frame {
+	pointer-events:none;
+	position: absolute;
+	left: 50%;
+	margin-left: -294px;
+	margin-top: -72px;
+}
+
+#frame img {
+	position: absolute;
+}
+
+div#description {
+	margin-top: 90px;
+	height: 1080px;
+}
