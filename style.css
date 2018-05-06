@@ -1,5 +1,5 @@
 body {
-  	background: #000000 url("bg.jpg") repeat-y center top;
+  	background: #000000 url("bg.jpg") no-repeat center top;
 	align: center;
 }
 
@@ -19,13 +19,22 @@ div#badges {
 	margin-top: 270px;
 }
 
+
 #badges img {
 	margin: 14px
 }
 
+div#comingsoon {
+	margin-top: 240px;
+}
+
+#comingsoon img {
+	margin: 20px
+}
+
 div#video {
 	align: left;
-	margin-top: 90px;
+	margin-top: 40px; #90px;
 }
 
 #frame {
@@ -37,6 +46,10 @@ div#video {
 }
 
 div#description {
-	margin-top: 90px;
+	margin-top: 70px;
 	height: 1080px;
+}
+
+#social img {
+	margin: 5px
 }
