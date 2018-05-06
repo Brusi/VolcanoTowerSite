@@ -41,7 +41,7 @@ div#video {
 	pointer-events:none;
 	position: absolute;
 	left: 50%;
-	margin-left: -294px;
+	margin-left: -296px;
 	margin-top: -72px;
 }
 
@@ -52,4 +52,14 @@ div#description {
 
 #social img {
 	margin: 5px
+}
+
+.youtubeoverlay {
+    position: absolute;
+    opacity: 0.0;
+}
+
+img.youtubeoverlay:hover {
+    opacity: 1.0;
+    
 }
