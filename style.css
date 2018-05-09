@@ -34,7 +34,7 @@ div#comingsoon {
 
 div#video {
 	align: left;
-	margin-top: 40px; #90px;
+	margin-top: 90px;
 }
 
 #frame {
@@ -47,6 +47,7 @@ div#video {
 
 div#description {
 	margin-top: 70px;
+	margin-bottom: 30px;
 	height: 1080px;
 }
 
